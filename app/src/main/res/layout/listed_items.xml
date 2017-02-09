@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:text="UID  : "
-        android:textColor="#154"/>
+        android:textColor="#191"/>
     <TextView
         android:id="@+id/tv_userid"
         android:layout_width="wrap_content"
@@ -27,7 +27,7 @@
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:text="ID     : "
-        android:textColor="#154"/>
+        android:textColor="#191"/>
     <TextView
         android:id="@+id/tv_id"
         android:layout_width="wrap_content"
@@ -43,7 +43,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Title : "
-            android:textColor="#154" />
+            android:textColor="#191" />
 
 
     <TextView
@@ -62,7 +62,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Body : "
-            android:textColor="#154" />
+            android:textColor="#191" />
 
     <TextView
         android:id="@+id/tv_body"
